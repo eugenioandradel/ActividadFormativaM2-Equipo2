@@ -1,1 +1,1 @@
-# ActividadFormativaM2-Equipo2
+# Actividad Git-GitHub Equipo 2
